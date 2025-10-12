@@ -32,7 +32,8 @@ Together, these techniques represent the "cross-layer" optimization pattern used
 | **Pinned**            | 25,285     | 85.1×             | Page-locked memory + non-blocking H2D copies. |
 | **Compile**           | 22,614     | 76.1×             | Graph-fused execution via Torch Compile.      |
 
-![Throughput comparison](assets/throughput_comparison.png)
+<img width="856" height="525" alt="image" src="https://github.com/user-attachments/assets/2451af1e-ae94-4235-aadc-d48dc28213d5" />
+
 
 **Interpretation:**
 Pinned memory and non-blocking copies improved training throughput from 15.9k → 25.3k tokens/sec, a **1.6× speed-up**.
