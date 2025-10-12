@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Results / logs / artifacts
+results/
+assets/tb_prof/
+*.csv
+*.qdrep
+*.sqlite
+*.pt
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
