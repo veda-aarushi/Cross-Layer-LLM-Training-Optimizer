@@ -21,7 +21,8 @@ Together, these techniques represent the "cross-layer" optimization pattern used
 
 ---
 ## Architechture diagram
-<img width="1154" height="673" alt="image" src="https://github.com/user-attachments/assets/cdcb409f-ea24-4872-8cb0-2d6f14360fc3" />
+<img width="1642" height="958" alt="image" src="https://github.com/user-attachments/assets/b2de0172-8d4b-452e-811b-4349cc4b64b7" />
+
 
 ## Key Results
 
