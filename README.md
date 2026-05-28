@@ -20,6 +20,8 @@ This work explores three complementary optimization layers:
 Together, these techniques represent the "cross-layer" optimization pattern used in modern ML systems at ByteDance, OpenAI, and NVIDIA.
 
 ---
+## Architechture diagram
+<img width="1154" height="673" alt="image" src="https://github.com/user-attachments/assets/cdcb409f-ea24-4872-8cb0-2d6f14360fc3" />
 
 ## Key Results
 
